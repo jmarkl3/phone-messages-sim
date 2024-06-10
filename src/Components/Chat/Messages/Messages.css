@@ -1,0 +1,37 @@
+
+.messageContainer{
+    /* margin: 10px; */
+    text-align: left;
+}
+.messageContainerSent{
+    text-align: right;
+}
+.message{
+    background-color: rgb(122, 169, 246);
+    border-radius: 15px;
+    padding: 10px;
+    max-width: 70%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: left;
+}
+.nameCircle{
+    display: inline-block;
+    border-radius: 50%;
+    background-color: rgb(232, 122, 122);
+    height: 35px;
+    width: 35px;
+    vertical-align: bottom;
+    margin-right: 5px;
+    text-align: center;
+    line-height: 33px;
+    font-weight: 500;
+}
+.messageSent{
+    background-color: #00405c;
+    color: white;
+}
+.messageRecieved{
+    background-color: #282a2d;
+    color: white;
+}

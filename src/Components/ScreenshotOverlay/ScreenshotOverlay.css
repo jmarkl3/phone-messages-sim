@@ -1,0 +1,15 @@
+.screenshotOverlay{
+    position: absolute;
+    top: 20px;
+    width: 350px;
+    left: calc(50% - 175px);
+    /* opacity: 0.5; */
+}
+.screenshotOverlay img{
+    width: 100%;
+}
+.screenshotOverlayButton{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}

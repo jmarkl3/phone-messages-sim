@@ -1,0 +1,16 @@
+.phone{
+    height: 800px;
+    width: 350px;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    background-color: #1b2025;
+    background-color: black;
+  }
+.notificationBar{
+    height: 40px;
+    width: 100%;
+}
+.notificationBar img{
+    width: 100%;
+}
